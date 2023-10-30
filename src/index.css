@@ -1,0 +1,11 @@
+* {
+  font-family: 'Average Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
+}
+
+#root {
+  max-width: 550px;
+  max-height: 870px;
+  height: 870px;
+  width: 550px;
+}
